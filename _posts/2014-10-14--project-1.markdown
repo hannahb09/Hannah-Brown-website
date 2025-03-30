@@ -1,10 +1,8 @@
 ---
 layout: default
 modal-id: 1
-date: 2014-10-14
 img: pc.png
 alt: image-alt
-project-date: 2023 - 2024
 client: 
 category: classes
 description: At Allegheny College I am a double major in software engineering and businessI have taken many computer science class at allegheny college that use python and sometimes other coding language. The classes have taken included us working in groups on projects. This also included reviewing peoples work in prs. I have also taken some business classes.
