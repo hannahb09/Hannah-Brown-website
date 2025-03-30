@@ -3,8 +3,6 @@ layout: default
 modal-id: 2
 img: cake.png
 alt: image-alt
-project-date: 2023 - 2024
-client: Start Bootstrap
 category: skills
-description: I know how to use photoshop and excel. I am able to code in python. I am also learning how to do accoutning. I know how to make websites.
+description: I know how to use photoshop and excel. I am able to code in python. I am also learning how to do accoutning. I know how to make websites. 
 ---
