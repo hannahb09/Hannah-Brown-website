@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 2
-img: cake.png
+img: skills.png
 alt: image-alt
 category: skills
 description: I know how to use photoshop and excel. I am able to code in python. I am also learning how to do accoutning. I know how to make websites.

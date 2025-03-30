@@ -1,8 +1,8 @@
 ---
 layout: default
 modal-id: 3
-img: pc.png
+img: projects.png
 alt: image-alt
 category: projects
-description: In the Allegheny College computer science department many of the classes uses a system that was created by one of the professors that can be used with labs and quizes. In one of my classes with the professor the class was tasked to work on the system by adding new features or updating it to fix bugs or with current content. When in the class I mainly helped to work on <a href="https://github.com/GatorEducator/execexam"><h1>ExecExam</h1></a>. I helped by making test cases and testing people prs. I am also working on a project for one of my computer science classes. We are working on updating the class website to work properly and have new features that will make it a better website. 
+description: In the Allegheny College computer science department many of the classes uses a system that was created by one of the professors that can be used with labs and quizes. In one of my classes with the professor the class was tasked to work on the system by adding new features or updating it to fix bugs or with current content. When in the class I mainly helped to work on <a href="https://github.com/GatorEducator/execexam"><h1>ExecExam</h1></a> I helped by making test cases and testing people prs. I am also working on a project for one of my computer science classes. We are working on updating the class website to work properly and have new features that will make it a better website. 
 ---
